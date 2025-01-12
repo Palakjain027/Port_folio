@@ -9,10 +9,10 @@ const projects = [
       live: "#",
     },
     {
-      title: "Task Management App",
+      title: "Hospital Management App",
       description:
-        "Collaborative task management application with real-time updates, team chat, and project analytics.",
-      tags: ["Vue.js", "Express", "Socket.io", "PostgreSQL"],
+        "hospital management application with real-time updates,stores patient detail, and records.",
+      tags: ["html", "css", "js"],
       github: "#",
       live: "#",
     },
